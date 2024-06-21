@@ -5,7 +5,7 @@ const Navbar = ({setCategory}) => {
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
   <div className="container-fluid">
-   <h1 className='badge bg-danger fs-3'>Latest News</h1>
+   <h1 className='badge bg-danger fs-3'>Flash Feed</h1>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
